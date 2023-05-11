@@ -1,0 +1,52 @@
+.Popup {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
+.Popup .PopupHeader {
+  padding: 20px;
+  color: #727272;
+  background-color: #ededed;
+  font-size: 1.8em;
+  text-align: center;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+
+.Popup .PopupBody {
+  padding: 10px 30px 20px 30px;
+  max-height: 50vh;
+  overflow-x: hidden;
+  font-size: 1.1em;
+  text-align: center;
+}
+
+.Popup .PopupFooter {
+  padding: 10px;
+  background-color: #ededed;
+  text-align: right;
+}
+
+.Popup .PopupWrap {
+  width: 400px;
+  margin: 5% auto;
+  background-color: #ffffff;
+}
+
+.PopupCancel {
+  color: #616161;
+  background-color: #cecece;
+}
+
+.PopupCancel:hover {
+  background-color: #c8c8c8;
+}
+
+.PopupFooter button {
+  margin: 10px;
+}

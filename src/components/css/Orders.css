@@ -1,0 +1,66 @@
+.Orders {
+  overflow-x: auto;
+}
+
+.Orders table {
+  width: 100%;
+  border-spacing: 0 1rem;
+}
+
+.Orders th {
+  padding: 0.5rem 1rem;
+  color: #7b7b7b;
+  cursor: pointer;
+  font-weight: normal;
+  text-align: left;
+}
+
+.Orders td {
+  padding: 0.75rem;
+  background-color: #ffffff;
+}
+
+.Orders td:first-child {
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.Orders td:last-child {
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.Orders .NotSortable {
+  cursor: default;
+}
+
+.Orders .OrdersDataLeft {
+  padding: 1rem;
+  text-align: left;
+}
+
+.Orders .OrdersDataRight {
+  text-align: right;
+}
+
+.Orders .OrdersDataCenter {
+  text-align: center;
+}
+
+.Orders .Finished {
+  color: #939393;
+}
+
+.Content .Toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 15px;
+}
+
+.Content .Toolbar div {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}

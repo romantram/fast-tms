@@ -1,0 +1,34 @@
+.UserActions button {
+  background: none;
+  outline: none;
+  cursor: pointer;
+  transition-duration: 0.1s;
+  transition-property: transform;
+}
+
+.UserActions button:hover {
+  background: none;
+  transform: scale(1.05);
+}
+
+.UserActions .Finish {
+  margin-right: 1rem;
+  color: #ffffff;
+  background-color: #117d0f;
+  transition-duration: 0.3s;
+  transition-property: background-color;
+}
+
+.UserActions .Finish:hover {
+  background-color: #128a10;
+  transform: none;
+}
+
+.UserActions .Finished {
+  color: #a8a8a8 !important;
+  background-color: #e4e4e4 !important;
+}
+
+.UserActions .Finished:hover {
+  cursor: not-allowed;
+}

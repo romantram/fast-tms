@@ -1,0 +1,21 @@
+.Header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1em;
+  align-items: center;
+  padding: 20px 50px;
+  color: #ffffff;
+  background-color: #2f2f2f;
+  border-bottom: 3px solid #ffffff;
+}
+
+.Header .Logo {
+  flex-grow: 2;
+}
+
+.Header input {
+  padding: 5px;
+  border: 1px solid #ece9df;
+  border-radius: 5px;
+  font: inherit;
+}

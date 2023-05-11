@@ -1,0 +1,18 @@
+.Form .FormRow {
+  text-align: left;
+}
+
+.Form .FormLabel {
+  display: block;
+  padding: 10px 0px;
+  color: #6b6b6b;
+  font-size: 0.9em;
+}
+
+.FormRow input, .FormRow textarea {
+  width: 100%;
+  padding-left: 5px;
+  border: 1px solid #949494;
+  border-radius: 5px;
+  font: inherit;
+}
