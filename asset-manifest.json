@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fast-tms/static/css/main.5ab0579b.css",
+    "main.js": "/fast-tms/static/js/main.f9731a20.js",
+    "static/js/787.e5fbcd88.chunk.js": "/fast-tms/static/js/787.e5fbcd88.chunk.js",
+    "static/media/jsonIcon.svg": "/fast-tms/static/media/jsonIcon.9673174df92c120a6e0017afe80a5416.svg",
+    "static/media/csvIcon.svg": "/fast-tms/static/media/csvIcon.385f278aecc9caf6811a81dca318dbf1.svg",
+    "index.html": "/fast-tms/index.html",
+    "static/media/deleteIcon.svg": "/fast-tms/static/media/deleteIcon.ffaa5faa3b5a3d410c49fc9ea0e3e9f9.svg",
+    "static/media/commentIcon.svg": "/fast-tms/static/media/commentIcon.aca6ac85c735b5ebd3cc4a2a22298f2e.svg",
+    "static/media/editIcon.svg": "/fast-tms/static/media/editIcon.893d9a908eb034cc9b01a01927cae96b.svg",
+    "static/media/exportIcon.svg": "/fast-tms/static/media/exportIcon.6f23fe7d9be1c5b406aac9a8414c80dc.svg",
+    "static/media/filterIcon.svg": "/fast-tms/static/media/filterIcon.f6f2c6130e6b5baae21ffa2fae17a013.svg",
+    "main.5ab0579b.css.map": "/fast-tms/static/css/main.5ab0579b.css.map",
+    "main.f9731a20.js.map": "/fast-tms/static/js/main.f9731a20.js.map",
+    "787.e5fbcd88.chunk.js.map": "/fast-tms/static/js/787.e5fbcd88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ab0579b.css",
+    "static/js/main.f9731a20.js"
+  ]
+}
