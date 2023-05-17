@@ -2,6 +2,8 @@
 
 It is an application supporting the work of transport and forwarding companies at the stage of order execution. It greatly facilitates the planning of the driver's working time and the implementation of transport services on a fixed date.
 
+[Live server](https://romantram.github.io/fast-tms)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
